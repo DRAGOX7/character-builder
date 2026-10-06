@@ -6,8 +6,11 @@ Open `index.html` in a modern browser. No build step, no dependencies to install
 
 ## Demo
 
-See the editor in action: [open or download the demo video (MP4)](assets/character-builder-demo.mp4).
+See Character Builder in action:
 
+https://github.com/user-attachments/assets/4f3a8a1a-7d35-4bda-bf33-52a4ee14d739
+
+[Download the MP4](assets/character-builder-demo.mp4)
 ## Features
 
 - **Characters rail:** keep several characters, each with its own settings. **Save** snapshots the current look as a new tile.
