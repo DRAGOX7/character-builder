@@ -6,11 +6,7 @@ Open `index.html` in a modern browser. No build step, no dependencies to install
 
 ## Demo
 
-Watch the short walkthrough to see Character Builder in action.
-
-<video src="./assets/character-builder-demo.mp4" controls preload="metadata" width="100%" aria-label="Character Builder demo video">
-  Your browser does not support embedded video. [Download the demo](./assets/character-builder-demo.mp4).
-</video>
+Watch the short walkthrough to see Character Builder in action: [play the demo video](assets/character-builder-demo.mp4).
 
 ## Features
 
