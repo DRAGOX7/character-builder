@@ -4,6 +4,14 @@ A single-file, in-browser editor for tweaking an illustrated character. Upload a
 
 Open `index.html` in a modern browser. No build step, no dependencies to install.
 
+## Demo
+
+Watch the short walkthrough to see Character Builder in action.
+
+<video src="./assets/character-builder-demo.mp4" controls preload="metadata" width="100%" aria-label="Character Builder demo video">
+  Your browser does not support embedded video. [Download the demo](./assets/character-builder-demo.mp4).
+</video>
+
 ## Features
 
 - **Characters rail:** keep several characters, each with its own settings. **Save** snapshots the current look as a new tile.
