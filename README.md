@@ -6,7 +6,7 @@ Open `index.html` in a modern browser. No build step, no dependencies to install
 
 ## Demo
 
-Watch the short walkthrough to see Character Builder in action: [play the demo video](assets/character-builder-demo.mp4).
+See the editor in action: [open or download the demo video (MP4)](assets/character-builder-demo.mp4).
 
 ## Features
 
